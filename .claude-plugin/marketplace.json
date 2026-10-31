@@ -1,0 +1,1 @@
+{ "name": "mods-do-habel", "owner": { "name": "Habel" }, "plugins": [ { "name": "faixa-uso-cache", "source": "./plugins/faixa-uso-cache", "description": "Faixa acima da caixa de texto: uso semanal restante e cache quente/frio" } ] }

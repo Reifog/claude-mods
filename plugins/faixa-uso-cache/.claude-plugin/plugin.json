@@ -1,0 +1,10 @@
+{
+  "name": "faixa-uso-cache",
+  "version": "0.1.0",
+  "description": "Faixa acima da caixa de texto: uso semanal restante e se o cache da conversa esta quente ou frio",
+  "types": "./types/index.d.ts",
+  "license": "MIT",
+  "author": {
+    "name": "Habel"
+  }
+}
